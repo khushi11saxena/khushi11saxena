@@ -18,12 +18,7 @@
 
 
 
-- 👋 Hi, I’m Khushi Saxena
-- 👀 I’m interested in Web Development, Graphics designing and Cloud Computing 
-- 🌱 I’m currently learning Web Development , Cloud Computing and Python Programming
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me khushi.saxna.0811@gmail.com
-
+- 
 
 
 
