@@ -9,8 +9,13 @@
 
 
 
-
-
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/khushi-saxena-542ba2216/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+  
+</p>
 
 
 
