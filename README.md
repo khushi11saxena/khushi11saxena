@@ -4,6 +4,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=50&pause=1000&color=9D1BF7&center=true&vCenter=true&multiline=true&width=500&height=200&lines=I'am+Khushi+)](https://git.io/typing-svg)
 
 
+
+<h3>About Me</h3>
+<p color=red>
+📚Currently, I am actively engaged in expanding my knowledge and skills in data science. 
+
+☕ Java has been a language that has captured my interest and continues to intrigue me. I am dedicated to enhancing my expertise in Java development by exploring its vast ecosystem, frameworks, and best practices. 
+
+🎨 Aside from coding, I have a creative side that I love to explore. I am passionate about photography, capturing moments and telling stories through my lens. I find joy in the process of transforming ideas into visual form. Whether it's through drawings or graphic design.
+
+🌟 In the future, I envision myself combining my programming skills with my artistic inclinations. I am eager to explore the realm of Java and illustration, blending the power of code with the beauty of visual storytelling. <br><br>
+</p>
+<h2>        </h2>
+
+
 <!-- Status and Streak section -->
 <p align="center">
   
@@ -24,5 +38,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+<h3 align ="left",font="Morris">Hoplin Badges</h3>
 
 [![@i_khushi_saxena's Holopin board](https://holopin.me/i_khushi_saxena)](https://holopin.io/@i_khushi_saxena)
