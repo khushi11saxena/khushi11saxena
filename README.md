@@ -9,9 +9,9 @@
 <p color=red>
 📚Currently, I am actively engaged in expanding my knowledge and skills in data science. 
 
-☕ Java has been a language that has captured my interest and continues to intrigue me. I am dedicated to enhancing my expertise in Java development by exploring its vast ecosystem, frameworks, and best practices. 
+☕ Java has been a language that has captured my interest and continues to intrigue me. I am dedicated to enhancing my expertise in Java development.
 
-🎨 Aside from coding, I have a creative side that I love to explore. I am passionate about photography, capturing moments and telling stories through my lens. I find joy in the process of transforming ideas into visual form. Whether it's through drawings or graphic design.
+🎨📷 Aside from coding, I have a creative side that I love to explore. I am passionate about photography, capturing moments and telling stories through my lens. I find joy in the process of transforming ideas into visual form. Whether it's through drawings or graphic design.
 
 🌟 In the future, I envision myself combining my programming skills with my artistic inclinations. I am eager to explore the realm of Java and illustration, blending the power of code with the beauty of visual storytelling. <br><br>
 </p>
