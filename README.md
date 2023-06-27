@@ -7,7 +7,7 @@
 
 <h3>About Me</h3>
 <p color=red>
-📚Currently, I am actively engaged in expanding my knowledge and skills in data science. 
+📚Currently, I am actively engaged in expanding my knowledge and skills in web development. 
 
 ☕ Java has been a language that has captured my interest and continues to intrigue me. I am dedicated to enhancing my expertise in Java development.
 
