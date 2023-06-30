@@ -9,7 +9,7 @@
 <p color=red>
 📚Currently, I am actively engaged in expanding my knowledge and skills in web development. 
 
-☕ Java has been a language that has captured my interest and continues to intrigue me. I am dedicated to enhancing my expertise in Java development.
+☕ Java has been a language that has captured my interest and continues to intrigue me.
 
 🎨📷 Aside from coding, I have a creative side that I love to explore. I am passionate about photography, capturing moments and telling stories through my lens. I find joy in the process of transforming ideas into visual form. Whether it's through drawings or graphic design.
 
