@@ -5,7 +5,7 @@
 
 
 
-<h3>About Me</h3>
+## About Me
 <p color=red>
 📚Currently, I am actively engaged in expanding my knowledge and skills in web development. 
 
@@ -24,13 +24,17 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=khushi11saxena&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=khushi11saxena&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+
   
 </p>
 
 
+## My Projects
+[Explore India](https://khushi11saxena.github.io/Explore-India/)
+
 
 <!-- Social icons section -->
-<h3 align ="left",font="Morris">Connect With Me</h3>
+## Connect With Me
 <p align="left">
    <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=new&to=khushi.saxena.0811@gmail.com"><img width="32px" alt="Mail" title="Mail" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -38,6 +42,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-<h3 align ="left",font="Morris">Hoplin Badges</h3>
+## Hoplin Badges
 
 [![@i_khushi_saxena's Holopin board](https://holopin.me/i_khushi_saxena)](https://holopin.io/@i_khushi_saxena)
