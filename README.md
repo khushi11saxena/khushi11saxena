@@ -1,8 +1,8 @@
 <!-- Typed Script -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=50&pause=1000&color=9D1BF7&center=true&vCenter=true&multiline=true&width=500&height=200&lines=I'am+Khushi+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=50&pause=500&color=9D1BF7&center=true&vCenter=true&multiline=true&width=500&height=200&lines=I'am+Khushi+)](https://git.io/typing-svg)
 
 
-<img src="https://i.pinimg.com/originals/d8/5d/45/d85d4581632bcf7f14a4bab4914f5d1e.gif" width="300px" alt="GIF"  align="center"> 
+<img src="https://i.pinimg.com/originals/d8/5d/45/d85d4581632bcf7f14a4bab4914f5d1e.gif" width="300px" alt="GIF"  align-item="center"> 
 <br />
 
 ## About Me
