@@ -15,7 +15,6 @@
 
 🌟 In the future, I envision myself combining my programming skills with my artistic inclinations. I am eager to explore the realm of Java and illustration, blending the power of code with the beauty of visual storytelling. <br><br>
 </p>
-<h2>        </h2>
 
 
 
@@ -30,7 +29,7 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Projects</b>
 
 <br>
  My Projects
