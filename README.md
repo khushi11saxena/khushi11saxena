@@ -1,8 +1,7 @@
 <!-- Typed Script -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=50&pause=500&color=9D1BF7&center=true&vCenter=true&multiline=true&width=500&height=200&lines=I'am+Khushi+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=50&pause=450&color=9D1BF7&center=true&vCenter=true&multiline=true&width=500&height=200&lines=I'am+Khushi+)](https://git.io/typing-svg)
 
-
-<img src="https://i.pinimg.com/originals/d8/5d/45/d85d4581632bcf7f14a4bab4914f5d1e.gif" width="300px" alt="GIF"  align-item="center"> 
+<img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="350px" alt="GIF"  align-item="center"> 
 <br />
 
 ## <img src="https://vignette.wikia.nocookie.net/undertale/images/9/92/Giphy.gif/revision/latest?cb=20160614134158&path-prefix=pl" width="35"><b> About Me </b>
