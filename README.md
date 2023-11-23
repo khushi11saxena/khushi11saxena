@@ -27,9 +27,14 @@
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Projects</b>
+<p><i>Glad to share some of my projects</i></p>
 
+[Explore India](https://khushi11saxena.github.io/Explore-India/) A Website that showcases the best tourist places to visit in India.
 <br>
-[Explore India](https://khushi11saxena.github.io/Explore-India/)
+<br>
+[CYBERFICTION* CLone Website](https://khushi11saxena.github.io/CYBERFICTION-Clone)nteractive website clone of CyberFiction, featuring immersive storytelling and stunning .
+<br>
+<p><b>More projects soon....</b></p>
 
 
 ## <b> Languages</b>
