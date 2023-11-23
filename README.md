@@ -32,7 +32,7 @@
 [Explore India](https://khushi11saxena.github.io/Explore-India/) A Website that showcases the best tourist places to visit in India.
 <br>
 <br>
-[CYBERFICTION* CLone Website](https://khushi11saxena.github.io/CYBERFICTION-Clone)nteractive website clone of CyberFiction, featuring immersive storytelling and stunning .
+[CYBERFICTION* CLone Website](https://khushi11saxena.github.io/CYBERFICTION-Clone)Interactive website clone of CyberFiction, featuring immersive storytelling and stunning .
 <br>
 <p><b>More projects soon....</b></p>
 
